@@ -5,7 +5,7 @@ const {
   cloudinaryCloudName,
   cloudinaryAPIKey,
   cloudinaryAPISecret,
-   backendUrl, 
+  backendUrl,
 } = require("./secret/secret");
 const cloudinary = require("cloudinary");
 
